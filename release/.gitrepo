@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/pmalacho-mit/svelte-styled-suede
 	branch = release
-	commit = 7d1193f7f4b03d960e090737e22821aacc2aa9fd
-	parent = cebbb89f10105cb8e9f17e5ca0245914183ee044
+	commit = 08b74eaad508d70398d5c9fee45cba52bd5d3d64
+	parent = 83938d089b62a61e1fbf38fad0cd4fe50a7223b8
 	method = merge
 	cmdver = 0.4.9
